@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>15</java.version>
         <org.mapstruct.version>1.4.1.Final</org.mapstruct.version>
-        <org.projectlombok.version>1.18.14</org.projectlombok.version>
+        <org.projectlombok.version>1.18.22</org.projectlombok.version>
     </properties>
 
     <parent>
